@@ -19,7 +19,7 @@
 ---
 ## REQUIRED DEVICE AND MODULE:
 1. `1pc OR 2pcs NRF24`
-- ![nrf24l01](https://github.com/rujal404/Ble-jammer/assets/c370e76d-d518-409a-ba87-cb087183958c.png)
+- ![nrf24l01](assets/c370e76d-d518-409a-ba87-cb087183958c.png)
 
 2. `1pc ESP32` NOTE... YOU CAN USE A `NANO OR MICRO` BUT ESP32 ARE CHEAP ALMOST SAME PRICE AS `ARDUINOS`...LOL
 - ![esp32](assets/840c5d23-a6cd-4c9b-90b5-911c3d29d8e4.png)
