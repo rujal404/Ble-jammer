@@ -1,5 +1,5 @@
 
-![smoochieeBLEheaderIMG](https://github.com/smoochiee/Ble-jammer/assets/30816448/8c160045-5e4c-4ad4-ae91-471beade94ba)
+![smoochieeBLEheaderIMG](assets/8c160045-5e4c-4ad4-ae91-471beade94ba.png)
 
 
  
@@ -19,17 +19,17 @@
 ---
 ## REQUIRED DEVICE AND MODULE:
 1. `1pc OR 2pcs NRF24`
-- ![nrf24l01](https://github.com/smoochiee/Ble-jammer/assets/30816448/c370e76d-d518-409a-ba87-cb087183958c)
+- ![nrf24l01](assets/c370e76d-d518-409a-ba87-cb087183958c.png)
 
 2. `1pc ESP32` NOTE... YOU CAN USE A `NANO OR MICRO` BUT ESP32 ARE CHEAP ALMOST SAME PRICE AS `ARDUINOS`...LOL
-- ![esp32](https://github.com/smoochiee/Ble-jammer/assets/30816448/840c5d23-a6cd-4c9b-90b5-911c3d29d8e4)
+- ![esp32](assets/840c5d23-a6cd-4c9b-90b5-911c3d29d8e4.png)
 
 
 3. `10UF-100UF CAPACITOR DEPEND ON YOUR NRF` 
-- ![capacitor](https://github.com/smoochiee/Ble-jammer/assets/30816448/7165fcb1-bb05-4aa4-8dee-5640118b2673)
+- ![capacitor](assets/7165fcb1-bb05-4aa4-8dee-5640118b2673.png)
 
 4.` 1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)
-- ![DIP](https://github.com/smoochiee/Ble-jammer/assets/30816448/cec3ed8d-6db0-4c9a-9d20-de72abbf9c58)
+- ![DIP](assets/cec3ed8d-6db0-4c9a-9d20-de72abbf9c58.png)
 
 
 ---
@@ -52,16 +52,16 @@
 
 
 ### NRF24L01 PINS
-- ![NRF24L01 PIN](https://github.com/smoochiee/Ble-jammer/assets/30816448/e41779d4-565a-4044-9b88-c0acbea0e93e)
+- ![NRF24L01 PIN](assets/e41779d4-565a-4044-9b88-c0acbea0e93e.png)
 
 ### ESP32 PINS WHERE YOU ATTACH YOUR `NRF24` AND `SWITCH `
-- ![32](https://github.com/smoochiee/Ble-jammer/assets/30816448/ba7c2991-1542-4296-8b8c-8011c2bc8e77)
+- ![32](assets/ba7c2991-1542-4296-8b8c-8011c2bc8e77.png)
 
 
 
 
 ### HOW YOU ATTACH CAPACITOR LOOK OUT FOR POLAROITY SIGNS `- +`
-- ![NRF24 CAPACITOR](https://github.com/smoochiee/Ble-jammer/assets/30816448/bf24b643-7b70-4d73-962a-38fa0bffe30f)
+- ![NRF24 CAPACITOR](assets/bf24b643-7b70-4d73-962a-38fa0bffe30f.png)
 
 
 --- 
@@ -142,3 +142,4 @@ void RF24::startConstCarrier(rf24_pa_dbm_e level, uint8_t channel)
 ```
 
 ---
+
